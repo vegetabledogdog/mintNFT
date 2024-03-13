@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mintNFT/static/css/main.0158c771.css",
+    "main.js": "/mintNFT/static/js/main.cfa9e397.js",
+    "static/js/453.258b012d.chunk.js": "/mintNFT/static/js/453.258b012d.chunk.js",
+    "index.html": "/mintNFT/index.html",
+    "main.0158c771.css.map": "/mintNFT/static/css/main.0158c771.css.map",
+    "main.cfa9e397.js.map": "/mintNFT/static/js/main.cfa9e397.js.map",
+    "453.258b012d.chunk.js.map": "/mintNFT/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0158c771.css",
+    "static/js/main.cfa9e397.js"
+  ]
+}
